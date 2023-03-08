@@ -1,4 +1,5 @@
 def encode(password):
+
     new_pass = ''
     for elem in password[::]:
         if elem == '0':
