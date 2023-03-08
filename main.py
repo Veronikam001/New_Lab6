@@ -34,4 +34,4 @@ if __name__ == '__main__':
             print('Your password has been encoded and stored!')
             print('Menu', '\n-------------', '\n1. Encode', '\n2. Decode', '\n3. Quit', '\n')
             x = input('Please enter an option:')
-
+            # Added the first comment
