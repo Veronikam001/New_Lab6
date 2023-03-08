@@ -35,3 +35,4 @@ if __name__ == '__main__':
             print('Menu', '\n-------------', '\n1. Encode', '\n2. Decode', '\n3. Quit', '\n')
             x = input('Please enter an option:')
             # Added the first comment
+            # Additional comment for 2nd change
