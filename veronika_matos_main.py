@@ -55,7 +55,7 @@ if __name__ == '__main__':
     print('Menu', '\n-------------', '\n1. Encode', '\n2. Decode', '\n3. Quit', '\n')
     x = input('Please enter an option:')
     password = 'a'      # Created a password variable to store password input by user
-    while x != 'q':
+    while x != '3':
         if x == '1':
             password = input('Please enter your password to encode:')
             encode(password)
